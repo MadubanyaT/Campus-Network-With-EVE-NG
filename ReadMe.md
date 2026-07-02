@@ -1,4 +1,5 @@
-# <p style="text-align:center;">Campus Network</p>
+# Campus Network 
+
 
 ## Project Overview
 This project documents the progressive design and implementation of a simulated campus network topology using ***EVE-NG***. The network is developed incrementally, with each phase introducing new devices, protocols, services, and design improvements.
