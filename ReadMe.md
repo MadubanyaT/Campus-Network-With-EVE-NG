@@ -16,7 +16,7 @@ The end-goal is to demonstrate not only the final solution but also the reasonin
 ## Phases
 | Phase | Description | Status |
 |--------|-------------|--------|
-| [Phase 1 - Initial Topology](..) | *The initial Campus network topology.* |  *Incomplete/Complete* |
+| [Phase 1 - Initial Topology](./Phase%201/Phase%201%20-%20Description.md) | *The initial Campus network topology.* |  Incomplete |
 
 ## Project Status
 This project is actively being developed. New phases will be added as the campus network evolves.
